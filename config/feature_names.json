@@ -1,0 +1,28 @@
+{
+  "features": [
+    "Backache",
+    "Chills or sweats",
+    "Fatigue/general weakness",
+    "Fever",
+    "Headache",
+    "Vesiculopustular rash",
+    "Rash lesions deep and profound?",
+    "All rash lesions the same size?",
+    "All rash lesions in same state of development?",
+    "Rash that itches",
+    "Enlarged lymph nodes, axillary",
+    "Enlarged lymph nodes, cervical",
+    "Enlarged lymph nodes, inguinal",
+    "Muscle pain",
+    "Oral ulcers",
+    "Painful lymphadenitis",
+    "Purpuric rash",
+    "Maculopapular rash",
+    "Sore throat/pharyngitis",
+    "Swollen glands",
+    "Enlarged lymph nodes",
+    "Feverish feeling",
+    "Increased fatigue",
+    "symptom_count"
+  ]
+}
