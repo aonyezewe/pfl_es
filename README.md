@@ -188,7 +188,7 @@ This project was developed as part of research on personalized federated learnin
 
 ## 👥 Authors
 
-Anozie Onyezewe, Adeleke University
+Anozie Onyezewe
 
 ## 🙏 Acknowledgments
 
